@@ -9,5 +9,7 @@ I build practical tools for solo operators and small businesses.
 - Live preview: https://albercr3.github.io/freelancer-profit-planner/
 - Free rate-check sample: https://gist.github.com/albercr3/5fc69c9742e78cf834e500611dfbe135
 - Purchase request: https://github.com/albercr3/freelancer-profit-planner/issues/new?template=purchase.yml
+- Custom setup request: https://github.com/albercr3/freelancer-profit-planner/issues/new?template=setup.yml
 
-Price: EUR 12
+Product price: EUR 12  
+Custom setup starts at EUR 79
